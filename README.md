@@ -1,4 +1,4 @@
-# Base58-to-Ripemd160-converter
+# b58dec
 
 Convert base58 bitcoin addresses to RIPEMD160 hashes.
 
