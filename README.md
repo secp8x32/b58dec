@@ -1,6 +1,6 @@
 # b58dec
 
-Convert base58 bitcoin addresses to RIPEMD160 hashes.
+Convert base58 bitcoin legacy addresses to RIPEMD160 hashes.
 
 Input text file must contains legacy bitcoin addresses each per line.
 
